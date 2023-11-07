@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.7603fa5a.css",
-    "main.js": "/static/js/main.6338f979.js",
-    "index.html": "/index.html",
-    "main.7603fa5a.css.map": "/static/css/main.7603fa5a.css.map",
-    "main.6338f979.js.map": "/static/js/main.6338f979.js.map"
+    "main.css": "/protein_page/i/static/css/main.7603fa5a.css",
+    "main.js": "/protein_page/i/static/js/main.ba3de651.js",
+    "index.html": "/protein_page/i/index.html",
+    "main.7603fa5a.css.map": "/protein_page/i/static/css/main.7603fa5a.css.map",
+    "main.ba3de651.js.map": "/protein_page/i/static/js/main.ba3de651.js.map"
   },
   "entrypoints": [
     "static/css/main.7603fa5a.css",
-    "static/js/main.6338f979.js"
+    "static/js/main.ba3de651.js"
   ]
 }
